@@ -27,8 +27,8 @@ authors:
   - Yibo Zhu
   - Xin Jin
 links:
-  Paper: https://arxiv.org/abs/2409.13221
+  Paper: https://www.usenix.org/system/files/nsdi25-zhong.pdf
   Code: https://github.com/FlexFusion/FlexFusion
-#   Slides: 
+  Slides: https://www.usenix.org/system/files/nsdi25_slides-zhong.pdf
 #   Video: 
 ---
