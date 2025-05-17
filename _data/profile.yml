@@ -5,8 +5,8 @@ navbar_name: "Yinmin Zhong"
 positions:
 - logo: /assets/images/badges/PKU_red.png
   name: PhD student @ Peking University
-# - logo:
-#   name: 
+- logo: /assets/images/badges/deepseek.png
+  name: Intern @ DeepSeek
 
 
 email: "zhongyinmin@pku.edu.cn"
@@ -52,6 +52,10 @@ education:
   date: Sep. 2018 - Jul. 2022
 
 experience:
+- name: DeepSeek
+  logo: /assets/images/badges/deepseek.png
+  position: Research Intern
+  date: May 2025 - present
 - name: StepFun System Team
   logo: /assets/images/badges/stepfun.png
   position: Research Intern
